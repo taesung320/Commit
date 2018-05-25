@@ -40,4 +40,10 @@ int main()
             cout<<"!";
         }
     }
+    if(A=='%')
+    {
+        if(num2)
+        {cout<<num1%num2;}
+        else{cout<<"!";}
+    }
 }
