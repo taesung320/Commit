@@ -28,4 +28,16 @@ int main()
     {
         cout<<num1*num2;
     }
+  
+    if(A=='/')
+    {
+        if(num2)
+        {
+            cout<<num1/num2;
+        }
+        else
+        {
+            cout<<"!";
+        }
+    }
 }
