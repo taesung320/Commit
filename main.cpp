@@ -24,6 +24,8 @@ int main()
     {
         cout<<num1-num2;
     }
-
-    
+    if(A=='*')
+    {
+        cout<<num1*num2;
+    }
 }
